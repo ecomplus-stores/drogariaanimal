@@ -1,23 +1,23 @@
 {
-  "store_id": 1222,
-  "name": "drogariaanimal",
   "domain": "drogariaanimal.netlify.app",
-  "short_name": "drogariaanimal",
-  "description": "drogariaanimal",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#e61927",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-drogaria-animal.jpg",
+  "name": "Drogaria Animal",
+  "short_name": "drogaria animal",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-drogaria-animal.jpg",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-drogaria-animal-app.jpg",
+  "store_id": 1222,
+  "description": "drogariaanimal",
+  "large_icon": "/img/uploads/logo-drogaria-animal.jpg"
 }
