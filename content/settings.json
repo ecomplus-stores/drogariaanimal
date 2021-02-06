@@ -3,11 +3,11 @@
   "currency_symbol": "R$",
   "primary_color": "#e61927",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo-drogaria-animal.jpg",
+  "logo": "/img/uploads/logo_drogaria_animal_5-removebg-preview.png",
   "name": "Drogaria Animal",
   "short_name": "A Farmácia do seu PET",
   "lang": "pt_br",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo-drogaria-animal.jpg",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#c09696",
   "icon": "/img/uploads/logo-drogaria-animal-app.jpg",
   "store_id": 1222,
   "description": "drogariaanimal",
