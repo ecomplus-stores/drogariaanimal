@@ -1,10 +1,10 @@
 {
   "domain": "drogariaanimal.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#e61927",
+  "primary_color": "#c60613",
   "theme": {
     "bootswatch": "minty",
-    "custom": "_"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo_drogaria_animal_5-removebg-preview.png",
@@ -15,9 +15,9 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo-drogaria-animal.jpg",
   "country_code": "BR",
-  "secondary_color": "#c09696",
+  "secondary_color": "#8c085c",
   "icon": "/img/uploads/logo-drogaria-animal-app.jpg",
   "store_id": 1222,
-  "description": "drogariaanimal",
+  "description": "A Drogaria Animal disponibiliza mais de 500 produtos de higiene e medicação veterinária. Aqui você encontrará produtos dos principais laboratórios, e também marcas de tapetes higiênicos, shampoos, perfumes e outros produtos destinados a higiene e beleza do seu Pet.\nSó trabalhamos com produtos de qualidade comprovada, visando a maior satisfação dos nossos clientes!",
   "large_icon": "/img/uploads/logo-drogaria-animal.jpg"
 }
