@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
@@ -21,6 +17,10 @@
           "img": "/img/uploads/cavalier-king-charles-spaniel-5952324_1920.jpg"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
