@@ -1,7 +1,12 @@
 {
   "sort_categories": [
     "medicamento",
-    "antibiotico"
+    "vermifugo",
+    "anti-pulgas-e-carrapatos",
+    "suplementos-diversos",
+    "higiene--beleza",
+    "higiene-bucal",
+    "tapete-higienico-e-areias"
   ],
   "phone_wpp": true,
   "socials": true
