@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 1000,
+      "autoplay": 7000,
       "slides": [
         {
           "start": "2021-02-08T14:06:50.601Z",
@@ -12,9 +12,9 @@
           "img": "/img/uploads/design-sem-nome.png"
         },
         {
-          "start": "2021-02-08T14:57:18.494Z",
-          "end": "2021-03-31T14:57:18.548Z",
-          "img": "/img/uploads/cavalier-king-charles-spaniel-5952324_1920.jpg"
+          "start": "2021-03-29T18:54:19.586Z",
+          "end": "2021-04-30T14:57:18.548Z",
+          "img": "/img/uploads/aproveite-nosso-cupom-de-inauguracao-farmaciapet.png"
         }
       ]
     },
