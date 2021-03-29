@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 7000,
+      "autoplay": 6000,
       "slides": [
         {
           "start": "2021-03-29T19:18:22.099Z",
@@ -17,6 +17,11 @@
           "end": "2021-04-30T14:57:18.548Z",
           "img": "/img/uploads/salmao-folhas-blog-banner.png",
           "mobile_img": ""
+        },
+        {
+          "start": "2021-03-29T21:37:54.038Z",
+          "end": "2021-04-30T21:37:54.098Z",
+          "img": "/img/uploads/verde-musica-parque-blog-banner.png"
         }
       ]
     },
