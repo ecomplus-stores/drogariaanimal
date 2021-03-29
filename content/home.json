@@ -7,14 +7,16 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2021-02-08T14:06:50.601Z",
-          "end": "2021-03-31T14:06:50.654Z",
-          "img": "/img/uploads/design-sem-nome.png"
+          "start": "2021-03-29T19:18:22.099Z",
+          "end": "2021-04-30T14:06:50.654Z",
+          "img": "/img/uploads/aproveite-nosso-cupom-de-inauguracao-do-site-farmaciapet.png",
+          "mobile_img": ""
         },
         {
           "start": "2021-03-29T18:54:19.586Z",
           "end": "2021-04-30T14:57:18.548Z",
-          "img": "/img/uploads/aproveite-nosso-cupom-de-inauguracao-farmaciapet.png"
+          "img": "/img/uploads/aproveite-nosso-cupom-de-inauguracao-do-site-farmaciapet.png",
+          "mobile_img": ""
         }
       ]
     },
