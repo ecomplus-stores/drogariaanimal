@@ -21,6 +21,10 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/border-collie-672696_1920.jpg"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
