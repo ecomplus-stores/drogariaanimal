@@ -10,24 +10,21 @@
           "start": "2021-03-29T19:18:22.099Z",
           "end": "2021-04-30T14:06:50.654Z",
           "img": "/img/uploads/aproveite-nosso-cupom-de-inauguracao-do-site-farmaciapet.png",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/aproveite-nosso-cupom-de-inauguracao-do-site-farmaciapet.png"
         },
         {
           "start": "2021-03-29T18:54:19.586Z",
           "end": "2021-04-30T14:57:18.548Z",
           "img": "/img/uploads/salmao-folhas-blog-banner.png",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/salmao-folhas-blog-banner.png"
         },
         {
           "start": "2021-03-29T21:37:54.038Z",
           "end": "2021-04-30T21:37:54.098Z",
-          "img": "/img/uploads/verde-musica-parque-blog-banner.png"
+          "img": "/img/uploads/verde-musica-parque-blog-banner.png",
+          "mobile_img": "/img/uploads/verde-musica-parque-blog-banner.png"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/border-collie-672696_1920.jpg"
     },
     {
       "type": "info-bar",
