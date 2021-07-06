@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f85c24d9cdcebda4ff78fdb699a8a6ee.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.de2178a147af2c90718f950d661193f4.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.e3565c30223e65dccec1b236612b5c77.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.a4182e3f780f592d88a32533c492f0cc.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.9774efddda95503d5227bb485bd34af9.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Drogaria Animal",
+  "short_name": "A Farmácia do seu PET",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Drogaria Animal disponibiliza mais de 500 produtos de higiene e medicação veterinária. Aqui você encontrará produtos dos principais laboratórios, e também marcas de tapetes higiênicos, shampoos, perfumes e outros produtos destinados a higiene e beleza do seu Pet.\nSó trabalhamos com produtos de qualidade comprovada, visando a maior satisfação dos nossos clientes!",
+  "background_color": "#ffffff",
+  "theme_color": "#c60613"
+}
